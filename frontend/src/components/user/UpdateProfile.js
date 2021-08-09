@@ -19,9 +19,9 @@ const UpdateProfile = ({ history }) => {
 
     const { user } = useSelector(state => state.auth);
     const { error, isUpdated, loading } = useSelector(state => state.user)
-
+    console.log(user)
     useEffect(() => {
-
+        console.log(user)
         if (user) {
             setName(user.name);
             setEmail(user.email);
