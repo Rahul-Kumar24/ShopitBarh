@@ -1,12 +1,12 @@
 # Getting Started with Create React App
-
+# Click Capture.png website look like
 # E commerce web sit  Using some Technologies
-# ReactJs
-# NodeJs
-# MongoDB
-# JavaScript
-# PostMan 
-## Available Scripts
+ ReactJs
+NodeJs
+MongoDB
+JavaScript
+PostMan 
+Available Scripts
 
 # Clone
                   1)  clone  https://github.com/Rahul-Kumar24/ShopitBarh.git
